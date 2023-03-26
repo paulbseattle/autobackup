@@ -1,0 +1,9 @@
+---
+loglevel: DEBUG # INFO, DEBUG, ERROR
+filesToIgnore:
+  - .DS_Store
+backup:
+#  - source: "Photos2022"
+#    destination: "documents/photos/2022"
+#    fileExistsAction: keep_both  # skip | keep_both
+
